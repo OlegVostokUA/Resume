@@ -26,16 +26,6 @@ body {
 	margin-botton: 5px;
 }
 
-.civil_position {
-    color: red
-    font-family: Tahoma;
-	font-weight: bold;
-	font-size: 25px;
-	line-height: 20px;
-	margin-botton: 25px;
-}
-
-
 h3 {
 	color: blueviolet;
 	font-family: Arial;
@@ -56,7 +46,7 @@ h3 {
 	padding-top: 20px;
 	padding-botton: 40px;
 	padding-left: 50px;
-	padding-right: 70px;
+	padding-right: 40px;
 	box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.1);
 	
 }
@@ -94,7 +84,7 @@ h3 {
 .photo {
 	width: 325px;
 	border: 3px solid grey;
-	border-radius: 25px;
+	border-radius: 25px; 5px; 25px; 5px;
 }
 
 .cont-link {
